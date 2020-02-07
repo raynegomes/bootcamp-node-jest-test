@@ -1,6 +1,7 @@
-<center>
-  <h1>TDD in NODE JS with JEST</h1>
-</center>
+
+<h1 align="center">
+TDD in NODE JS with JEST
+</h1>
 
 Project to test the implementation of TDD in NodeJs with Jest
 
